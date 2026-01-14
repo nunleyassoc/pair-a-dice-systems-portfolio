@@ -33,7 +33,7 @@ var height_offset: float = 0.0                ## Random Height offset from cente
 #endregion
 
 
-##
+## Decides how a held / thrown Item should act
 func _physics_process(delta):
 	if held and not OBJ.is_freeze_enabled():
 		hold_middle()
@@ -45,7 +45,7 @@ func _physics_process(delta):
 			tornado(time_passed)
 
 
-##
+## Pickup OBJ's have special functionality like Baseball bats, Bows, Magic Wands, ect
 func _process(delta):
 	if held and OBJ.is_freeze_enabled():
 		hold_pickup(delta)
