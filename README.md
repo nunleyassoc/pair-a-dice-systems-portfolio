@@ -14,10 +14,10 @@ This code is shared solely for portfolio and evaluation purposes.
 ## What’s Included
 
 - Enemy AI using a reusable state machine architecture
-- Multiplayer spawning and world logic
-- Combat resolution and hit detection systems
+- Multiplayer spawning and dice-rolling logic
+- Boss Fight scripts showing how exactly they work
 - Data-driven crafting system using Godot resources
-- Custom signal/event architecture for decoupled systems
+- Custom Dialog System
 
 Each script is documented with its purpose and design tradeoffs.
 
