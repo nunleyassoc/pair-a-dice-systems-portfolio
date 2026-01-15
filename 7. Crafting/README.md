@@ -11,5 +11,5 @@ into new items.
 This system emphasizes simplicity and extensibility over hard-coded logic.
 
 <p align="center">
-  <img src="images/crafting.png" width="500">
+  <img src="../images/crafting.png" width="500">
 </p>

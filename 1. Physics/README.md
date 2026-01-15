@@ -14,5 +14,5 @@ These systems allow enemies, objects, and the environment to interact
 naturally without special-case logic.
 
 <p align="center">
-  <img src="images/physics.png" width="520">
+  <img src="../images/physics.png" width="520">
 </p>

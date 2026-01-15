@@ -10,6 +10,6 @@ Boss logic focuses on readable phases, telegraphed attacks,
 and clear player feedback.
 
 <p align="center">
-  <img src="images/final_boss.png" width="420">
-  <img src="images/green_gem_boss.png" width="420">
+  <img src="../images/final_boss.png" width="420">
+  <img src="../images/green_gem_boss.png" width="420">
 </p>

@@ -11,6 +11,6 @@ These shaders are lightweight, parameter-driven, and designed to be reused
 across multiple scenes.
 
 <p align="center">
-  <img src="images/matrix_shader.png" width="420">
-  <img src="images/coral_shader.png" width="420">
+  <img src="../images/matrix_shader.png" width="420">
+  <img src="../images/coral_shader.png" width="420">
 </p>

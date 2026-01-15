@@ -13,6 +13,6 @@ This system acts as the game’s primary director, balancing chaos with
 player readability.
 
 <p align="center">
-  <img src="images/d20_dice.png" width="260">
-  <img src="images/dice.png" width="260">
+  <img src="../images/d20_dice.png" width="260">
+  <img src="../images/dice.png" width="260">
 </p>

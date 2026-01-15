@@ -12,6 +12,6 @@ above characters during gameplay.
 Used for enemy taunts, story beats, and environmental storytelling.
 
 <p align="center">
-  <img src="images/dialog.png" width="420">
-  <img src="images/dialog_2.png" width="420">
+  <img src="../images/dialog.png" width="420">
+  <img src="../images/dialog_2.png" width="420">
 </p>

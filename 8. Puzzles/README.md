@@ -11,7 +11,7 @@ and spatial reasoning.
 Each puzzle is implemented as a modular system that can be reused or extended.
 
 <p align="center">
-  <img src="images/button_puzzle.png" width="280">
-  <img src="images/clam_puzzle.png" width="280">
-  <img src="images/dome.png" width="280">
+  <img src="../images/button_puzzle.png" width="280">
+  <img src="../images/clam_puzzle.png" width="280">
+  <img src="../images/dome.png" width="280">
 </p>

@@ -15,7 +15,7 @@ throughout the game.
 These scripts focus on readable state-based behavior and reusable motion logic.
 
 <p align="center">
-  <img src="images/crab.png" width="420">
-  <img src="images/underwater.png" width="420">
-  <img src="images/enemy_crab.png" width="420">
+  <img src="../images/crab.png" width="420">
+  <img src="../images/underwater.png" width="420">
+  <img src="../images/enemy_crab.png" width="420">
 </p>
