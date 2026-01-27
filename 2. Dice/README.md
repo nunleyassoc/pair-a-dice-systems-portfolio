@@ -1,13 +1,11 @@
 # Dice System
 
-The core mechanic of the game: dynamic dice that control spawning,
-events, and world state.
+The core mechanic of the game: dynamic dice that control spawning enemies, crafting materials, and more.
 
 ## Features
-- Runtime-generated dice with variable side counts (D6, D20, etc.)
-- Dynamic side reassignment based on game state
-- Weighted and constrained RNG to prevent soft-locks
-- Dice-driven spawning of enemies, terrain, and world events
+- Variable side counts (D6, D20)
+- Server based dynamic side Replacement
+- Add's more spawnable enemies and crafts as the player progresses
 
 This system acts as the game’s primary director, balancing chaos with
 player readability.

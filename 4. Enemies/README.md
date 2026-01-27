@@ -10,7 +10,7 @@ throughout the game.
   - Crabs (ground-based navigation)
 - Snake attack behavior
 - Gull behavior for stealing and carrying objects
-- Reusable health bar system shared across enemies
+- Reusable health bar system shared across enemies, bosses, and players
 
 These scripts focus on readable state-based behavior and reusable motion logic.
 

@@ -3,8 +3,8 @@
 Scripts and logic used for large-scale, multi-phase boss encounters.
 
 ## Included Bosses
-- **Final Dice Boss** – Phase-based fight with escalating difficulty
-- **Green Gem Guardian** – Arena-style encounter tied to environmental control
+- **Final Dice Boss** – rng-based attacks fight with escalating difficulty
+- **Palm Tree Boss** – Arena-style encounter with a massive coconut tree
 
 Boss logic focuses on readable phases, telegraphed attacks,
 and clear player feedback.
